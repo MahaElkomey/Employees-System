@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667238151 source:g:\iti materials\intro_programming\day7\3\p3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<G:\ITI materials\intro_programming\MyLibrary.h>
+
